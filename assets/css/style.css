@@ -1,0 +1,30 @@
+body {
+	background-image: url("../images/floating-cogs.svg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mr-auto, .mx-auto	{
+	margin-left: auto!important;
+	margin-right: 0!important;
+}
+
+.nav-item	{
+	text-align: right;
+}
