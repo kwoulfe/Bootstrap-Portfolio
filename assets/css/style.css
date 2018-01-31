@@ -2,24 +2,6 @@ body {
 	background-image: url("../images/floating-cogs.svg");
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .mr-auto, .mx-auto	{
 	margin-left: auto!important;
 	margin-right: 0!important;
@@ -28,3 +10,9 @@ body {
 .nav-item	{
 	text-align: right;
 }
+
+/* I believe all 3 HTML pages complete, with working Bootstrap 4.0
+link. Ran out of time making the necessary CSS changes in my external 
+stylesheet. Worked on this darn thing for what feels like forever. 
+I think my mind was still trying to wrap its head around the new 
+Javascript concepts we were just introduced to! /*
