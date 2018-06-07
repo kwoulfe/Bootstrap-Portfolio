@@ -147,7 +147,7 @@ h2 {
 .text-overlay3,
 .text-overlay4,
 .text-overlay5 {
-  position: absolute;
+  /* position: absolute; */
   top: 130px;
   left: 0px;
   width: 100%;
